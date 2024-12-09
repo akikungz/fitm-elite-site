@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import Editor from "@/components/Editor";
+// import Editor from "@/components/Editor";
 
 export default function ArticlePreview() {
     return (
